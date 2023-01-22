@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swagger_API_Versioning", "Swagger_API_Versioning\Swagger_API_Versioning.csproj", "{5E596C75-8572-4753-9EB5-F651F038E859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E596C75-8572-4753-9EB5-F651F038E859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E596C75-8572-4753-9EB5-F651F038E859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E596C75-8572-4753-9EB5-F651F038E859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E596C75-8572-4753-9EB5-F651F038E859}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAA8AB0C-253F-49F1-9CEF-0DDB17E5C85A}
+	EndGlobalSection
+EndGlobal
